@@ -1,0 +1,11 @@
+parent process id:5828, handle:512, file:C:\Program Files (x86)\baidu\Baidu Browser\sparkupdate.exe.old
+SetUnhandledExceptionFilter
+process start. cmd:"C:\Program Files (x86)\baidu\Baidu Browser\desktoptoolmini_global_br.exe" , main thread id:8020
+mini_install_proc...
+CheckProcList ????????????????????????????
+download_config file:url=http://download.nicelogin.net/spark_gl.encrypt cgi=http://mini.reliablesever.net/report
+sleep 0 seconds to retry send log.
+download_config file: cgi=http://mini.reliablesever.net/report?uid=865ed51231eb291981f8ea81c68e9a12&type=00000000000000010000000000000000000000000000000000000000&partner=spark|gl|calendar|Bundle
+start to send log:{"com":{"id":"865ed51231eb291981f8ea81c68e9a12","prod":"Desktop Tools","win":"10.0","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"0","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=1
